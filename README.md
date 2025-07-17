@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lochana karunarathna</h1>
 <h3 align="center">A passionate Data Scientist in Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochana77&label=Profile%20views&color=0e75b6&style=flat" alt="lochana77" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lochana77&label=Profile%20views&color=0e75b6&style=flat" alt="lochana77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lochana77" alt="lochana77" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lochana77" alt="lochana77" /></a> </p>
+
+---
+### IT'S PERSONAL
 
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **lochanakarunarathnaugc@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Call me as **Lochana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
